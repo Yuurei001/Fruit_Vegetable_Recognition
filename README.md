@@ -15,3 +15,4 @@ To run app, write following command in CMD. or use any IDE.
 
 streamlit run Fruits_Vegetable_Classification.py
 For more explanation of this project see the tutorial on Yuurei the girl YouTube channel.
+Note: This project work with python 3.12.5
